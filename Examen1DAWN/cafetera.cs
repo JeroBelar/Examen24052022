@@ -1,5 +1,7 @@
 ﻿using System;
-
+///<summary>
+///El codigo de ha tabulado.
+///</summary>
 //namespace EDexamenT6a8
 ///<sumary>
 /// Proporciona las propiedades y métodos necesarios Agregar, Actualizar y Eliminar un cliente.
